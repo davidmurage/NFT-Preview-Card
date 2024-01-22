@@ -38,7 +38,7 @@ body{
 .image div:hover{
      opacity: 1;
      cursor: pointer;
-     border-radius: 11px;
+     border-radius: 10px;
 }
 
 .image div img{
@@ -73,7 +73,7 @@ h1{
      display: flex;
      align-items: center ;
      color:  hsl(215, 51%, 70%);
-     font-size: 15px;
+     font-size: 14px;
      letter-spacing: 1px;
      margin-top: 1rem;
 }

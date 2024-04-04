@@ -18,8 +18,8 @@ body{
 .card{
      background-color: hsl(216, 50%, 16%);
      width: 275px;
-     border-radius:34px ;
-     padding: 1.5rem;
+     border-radius:35px ;
+     padding: 1.6rem;
 }
 
 .image{
@@ -38,7 +38,7 @@ body{
 .image div:hover{
      opacity: 1;
      cursor: pointer;
-     border-radius: 11px;
+     border-radius: 12px;
 }
 
 .image div img{
